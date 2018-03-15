@@ -1,4 +1,8 @@
 # Shared Calendar
+
+**Note**
+Event list will be soon available here as well.
+
 ### Link
 [Google Calendar](https://calendar.google.com/calendar?cid=ZTc3MGhrMjlhbHFkMm5rN2FqMWQyZWNvaDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
